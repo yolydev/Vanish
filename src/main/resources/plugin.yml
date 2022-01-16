@@ -1,0 +1,9 @@
+name: Vanish
+version: '${project.version}'
+main: at.plexnet.vanish.VanishPlugin
+api-version: 1.18
+authors: [ Yolyon ]
+description: Vanish Plugin
+website: www.plexnet.at:8123
+commands:
+  vanish:
